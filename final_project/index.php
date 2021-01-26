@@ -4,7 +4,13 @@
   <head>
     <meta charset="utf-8">
     <link rel="dns-prefetch" href="//s3.envato.com" />
+<<<<<<< Updated upstream
 #How are you doing?
+=======
+
+hello world
+>>>>>>> Stashed changes
+csie
     
   #  I'm wini
 <script nonce="7DgIaROz34LizjocJh5wWA==">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"NRBR-281af528f2b1e2422b5","applicationID":"13909","transactionName":"NTU0DRQNDwshOmIZBRM3dR8TDg84Nys/FRQYBSoLAxQKAjM=","queueTime":0,"applicationTime":27,"agent":"","atts":"DXgvW1wZQRQtPChSS1QOMhwLByUINi0+BFNaeCgcEAsQDismb0pTRmhsQAAAAF9mNTA="}</script>
