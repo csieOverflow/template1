@@ -4,12 +4,8 @@
   <head>
     <meta charset="utf-8">
     <link rel="dns-prefetch" href="//s3.envato.com" />
-<<<<<<< Updated upstream
-#How are you doing?
-=======
 
 hello world
->>>>>>> Stashed changes
 csie
     
   #  I'm wini
